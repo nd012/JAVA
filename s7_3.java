@@ -1,5 +1,3 @@
-//WAP that creates a custom exception InvalidAgeException which will be thrown when user enters age below 18.
-
 import java.util.Scanner;
 
 class InvalidAgeException extends Exception{
